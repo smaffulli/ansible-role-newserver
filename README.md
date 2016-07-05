@@ -51,3 +51,5 @@ to create a new server first and then assigns the newserver role:
            logwatch_email: $YOUR_EMAIL@ADDRESS
 
           become: True
+
+Based on https://gist.github.com/ryane/e0ea8e4a75b140bf799f.
