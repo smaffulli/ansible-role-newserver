@@ -1,0 +1,3 @@
+---
+  vars:
+  - ubuntu_release: xenial
